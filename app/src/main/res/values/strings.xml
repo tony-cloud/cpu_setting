@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CPU设置</string>
+	<string name="off_cpu0">echo "1" > /sys/devices/system/cpu/cpu1/online</string>
+
+</resources>
